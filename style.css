@@ -1,3 +1,29 @@
-background {
-  color: black;
+h2 {
+  font-family: Helvetica;
+  color: red;
+  margin-top: -10px;
+}
+
+h1 {
+  font-family: Helvetica;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+.nav-wrapper {
+  padding-left: 1em;
+  background-color: #000;
+}
+
+.page-footer {
+  background-color: #26B2A4;
+}
+
+.card-panel {
+  background-image: url("golf.jpg");
+  background-position: top;
+  background-size: cover;
 }
